@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to bottom, #111 0%, #222 50%, #111 100%);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    color: rgba(255, 255, 255, 0.5);
+}
+canvas#waves {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    pointer-events: none;
+}
