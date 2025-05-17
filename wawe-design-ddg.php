@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Wawes Background Ultimate by DDG - site go-studio.pro
- * Plugin URI: https://www.go-studio.pro/plugin/wawes 
+ * Plugin URI: https://github.com/ddg-griggs/wawes-design-ddg-v1.2 
  * Plugin Info: wp-content/plugins/wawe-design-ddg-v1.2/readme.txt
  * Description: [EN] Animated waves on the background of the site with color settings and the number of page IDs. [RU] Анимированные волны на фоне сайта с настройками цвета, и количества ID страниц.
  * Version: 1.2 : 15.05.2025
