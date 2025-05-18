@@ -97,7 +97,7 @@ Lightweight and non-intrusive (doesn’t block scrolling or interactions)
 
 Perfect for portfolios, presentations, and artistic websites where design matters.
 
-=== Wawes Background Ultimate by DDG - site go-studio.pro === Contributors: Dorel Dankov Tags: elementor, animation, background, waves, design, visual Requires at least: 5.0 Tested up to: 6.5 Requires PHP: 7.0 Stable tag: 1.2 : 15.05.2025 License: GPLv2 or later License URI: https://www.gnu.org/licenses/gpl-2.0.html
+=== Wawes Background Ultimate by DDG - site go-studio.pro === Contributors: go-studio.pro Tags: elementor, animation, background, waves, design, visual Requires at least: 5.0 Tested up to: 6.5 Requires PHP: 7.0 Stable tag: 1.2 : 15.05.2025 License: GPLv2 or later License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Add animated sine-wave backgrounds to specific Elementor pages with custom colors and styles.
 
